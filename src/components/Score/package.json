@@ -1,6 +1,6 @@
 {
-  "name": "Link",
+  "name": "Score",
   "version": "0.0.0",
   "private": true,
-  "main": "./Link.js"
+  "main": "./Score.js"
 }
